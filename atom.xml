@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>张小菜</title>
+  
+  <subtitle>张小菜个人博客</subtitle>
+  <link href="https://zhangxiaocainb.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://zhangxiaocainb.github.io/"/>
+  <updated>2021-08-25T04:03:19.570Z</updated>
+  <id>https://zhangxiaocainb.github.io/</id>
+  
+  <author>
+    <name>海</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>first</title>
+    <link href="https://zhangxiaocainb.github.io/2021/08/25/first/"/>
+    <id>https://zhangxiaocainb.github.io/2021/08/25/first/</id>
+    <published>2021-08-25T03:51:00.000Z</published>
+    <updated>2021-08-25T04:03:19.570Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;123123123&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="Diary" scheme="https://zhangxiaocainb.github.io/categories/Diary/"/>
+    
+    <category term="PlayStation" scheme="https://zhangxiaocainb.github.io/categories/Diary/PlayStation/"/>
+    
+    <category term="Games" scheme="https://zhangxiaocainb.github.io/categories/Diary/Games/"/>
+    
+    <category term="Life" scheme="https://zhangxiaocainb.github.io/categories/Life/"/>
+    
+    
+    <category term="1234123" scheme="https://zhangxiaocainb.github.io/tags/1234123/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://zhangxiaocainb.github.io/2021/08/25/hello-world/"/>
+    <id>https://zhangxiaocainb.github.io/2021/08/25/hello-world/</id>
+    <published>2021-08-25T02:59:11.742Z</published>
+    <updated>2021-08-25T02:59:11.742Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
