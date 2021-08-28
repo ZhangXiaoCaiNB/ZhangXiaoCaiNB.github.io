@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>张小菜</title>
   
-  <subtitle>张小菜个人博客</subtitle>
+  <subtitle>做你想做的事，爱你想爱的人</subtitle>
   <link href="https://zhangxiaocainb.github.io/atom.xml" rel="self"/>
   
   <link href="https://zhangxiaocainb.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://zhangxiaocainb.github.io/</id>
   
   <author>
-    <name>海</name>
+    <name>张小菜</name>
     
   </author>
   

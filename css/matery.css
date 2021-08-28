@@ -241,7 +241,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background-color: rgba(192,192,192,0.7);
 }
 
 .text-color {
@@ -574,7 +574,7 @@ header .go-back i {
 }
 
 .bg-cover .title {
-    font-size: 4rem;
+    font-size: 3rem;
     line-height: 1.2em;
     margin-bottom: 20px;
     position: relative;
@@ -1343,13 +1343,13 @@ thead {
     margin: 10px 0 50px -20px;
     padding: 21px 10px;
     background-color: #ff5722;
-    color: #fff;
+    color: black;
     font-size: 1.8rem;
     font-weight: 600;
 }
 
 #cd-timeline .year a {
-    color: #fff;
+    color: black;
 }
 
 #cd-timeline .month {
